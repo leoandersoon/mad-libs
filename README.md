@@ -1,9 +1,9 @@
 # mad-libs
 
-#💻Building Mad Lib game by using Python
+💻Building Mad Lib game by using Python
 
 
-###🔹One of the best ideas to start experimenting you hands-on python projects for students is working on Mad Libs Generator.
+🔹One of the best ideas to start experimenting you hands-on python projects for students is working on Mad Libs Generator.
 
 This is the perfect project for beginners who are just starting out with software development.
 
