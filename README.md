@@ -13,5 +13,5 @@ The program design is such that it will ask users to enter a series of inputs th
 
 The input could be anything, an adjective, a noun, a pronoun, etc. Once all the inputs are entered, the application will take the data and arrange the inputs into a story template form. Sound fun, right?
 
-####for more information;
+for more information;
 https://www.instagram.com/p/CQdhvDOsDqL/
